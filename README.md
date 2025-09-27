@@ -1,4 +1,6 @@
 # UCI-Heart-Disease-Prediction-Using-ML
+### Author Name: Raaid Yousuf
+### Gmail: raaid.yousuf1019@gmail.com
 ## Meta-Data (About Dataset)
 
 ### Context
